@@ -15,7 +15,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        String input = "lolks";
+        String input = "lOOOolks";
         System.out.println(input);
         System.out.println(decode(input));
         System.out.println(decode(decode(input)));

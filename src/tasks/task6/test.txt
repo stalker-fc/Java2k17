@@ -2,6 +2,6 @@ bla bla bla
 kek kek kek
 ha 1234 sdada
 dnsajndja 123.12 sandjnad cnjnxczz
-nsd
+nsd e
 
 String path = "D:\\Study\\Jura\\Java2k17\\src\\tasks\\test.txt";

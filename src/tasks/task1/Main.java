@@ -8,7 +8,7 @@ public class Main {
             else
                 b = Math.abs(b % a);
         }
-        return a + b;
+        return Math.abs(a + b);
     }
 
     public static int gcdWithFloorMod(int a, int b) {
@@ -32,8 +32,8 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        int a = -10;
-        int b = 15;
+        int a = -1;
+        int b = -5;
 
         System.out.println(gcd(a, b));
         System.out.println(gcdWithFloorMod(a, b));
